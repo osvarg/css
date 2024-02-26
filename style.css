@@ -19,3 +19,9 @@ h1:hover {
 h4 {
     color: grey !important;
 }
+.form__input:first-child {
+    color: antiquewhite;
+}
+.form__input--active {
+    color: orange;
+}
