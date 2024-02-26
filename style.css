@@ -7,3 +7,15 @@
 [fulbo=droga]{
     color: greenyellow;
 }
+h3 p {
+    color: aquamarine;
+}
+h1:hover {
+    color: purple;
+}
+#subtitulo:hover {
+    color: purple;
+}
+h4 {
+    color: grey !important;
+}
