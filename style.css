@@ -1,8 +1,10 @@
 .titulo-h1{
-    font-size: 1em;
+    font-family: "Chonburi", Arial;
+    font-size: 3em;
     color: red;
 } 
 #subtitulo{
+    font-family: Arial;
     color: blue;
 }
 [fulbo=droga]{
